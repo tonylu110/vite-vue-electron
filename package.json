@@ -4,7 +4,7 @@
   "main": "electron/main.js",
   "version": "0.0.1",
   "type": "commonjs",
-  "author": "Anthony Lu <luxiaoyu1848367623@gmail.com>",
+  "author": "<your-name> <your-name@mail.com>",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
@@ -28,9 +28,9 @@
     "wait-on": "^6.0.1"
   },
   "build": {
-    "appId": "cn.org.uyou.electron",
+    "appId": "com.your-website.your-app",
     "productName": "ElectronApp",
-    "copyright": "Copyright © 2022 Anthony Lu",
+    "copyright": "Copyright © 2021 <your-name>",
     "mac": {
       "category": "public.app-category.utilities"
     },
