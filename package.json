@@ -1,5 +1,5 @@
 {
-  "name": "vite-vue-electron",
+  "name": "{{ name }}",
   "private": true,
   "main": "electron/main.js",
   "version": "0.0.1",
